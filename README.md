@@ -1,4 +1,4 @@
 # demo
-author - Venkatsai Kothe
+author - Balaji Kothe
 <br>
 first git repo
